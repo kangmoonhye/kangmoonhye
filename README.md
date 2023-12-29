@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="(https://docc.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/338AFF?style=&logo=tistory&logoColor=F95137"/></a>
-
+<a href="https://docc.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/HELLO!2FC3F2?style=for-the-badge&logo=tistory&logoColor=F95137"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmoonhye&show_icons=true&theme=radical)
