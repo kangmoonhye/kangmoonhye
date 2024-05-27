@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=WELCOME!&desc=I'm%20moonhye&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
-### HELLLLLLLLLLLLLLOoOoOooooOoOO!!
+
+### welcome!
 
 <!--
 **kangmoonhye/kangmoonhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,17 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmoonhye&show_icons=true&theme=one_dark_pro )
 
-### Blog
+맡은 일에 최선을 다하며 언제나 성실함을 중요하게 생각하는 주니어 개발자입니다. 
+매 프로젝트마다 최고의 결과를 내기 위해 끊임없이 노력하며, 꾸준한 성장을 추구합니다. 
+
+
+### About Me
+<div>
+    <h5>Blog</h5>
 https://docc.tistory.com/
+    <h5>Email</h5>
+nnoonhye521@gmail.com
+</div>
 
 ##  ⛓️ Stacks
 <h4> Backend</h4>
